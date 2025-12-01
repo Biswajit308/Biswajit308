@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Biswajit308
-- 👀 I’m interested in ...Java Developer 
-- 🌱 I’m currently learning ...Full stack Java developer 
-- 💞️ I’m looking to collaborate on ...Java jobs
-- 📫 How to reach me ... biswajit3082@gmail.com or 9861130397
+👋 Hi, I'm Biswajit Malik  
 
-<!---
-Biswajit308/Biswajit308 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Software Test Engineer with 4+ years of experience in **Java Testing**  
+🔍 Skilled in **Automation Testing, Manual Testing, API Testing, Selenium, JUnit, TestNG, Maven, Jenkins**  
+⚙️ Strong knowledge of **SDLC, STLC, Agile methodologies, Bug Tracking (JIRA)**  
+🛠️ Hands-on expertise in **Regression Testing, Functional Testing, Integration Testing, Smoke Testing**  
+📈 Passionate about **quality assurance, test automation frameworks, and continuous integration**  
+🚀 Always eager to learn new tools and contribute to open-source projects  
